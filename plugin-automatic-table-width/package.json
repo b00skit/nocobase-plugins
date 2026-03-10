@@ -1,0 +1,12 @@
+{
+  "name": "@my-project/plugin-automatic-table-width",
+  "version": "1.1.1",
+  "main": "./dist/server/index.js",
+  "displayName": "Automatic Table Width",
+  "description": "Add new context menu toggle to a table block which allows you to select dynamic/automatic table width",
+  "license": "MIT",
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x"
+  }
+}
