@@ -1,26 +1,12 @@
 {
   "name": "@my-project/plugin-table-search",
-  "displayName": "Table Search Box",
   "version": "1.0.0",
-  "author": "booskit",
-  "main": "dist/server/index.js",
-  "scripts": {
-    "build": "nocobase build"
-  },
-  "dependencies": {
-    "@nocobase/client": "1.9.40",
-    "@nocobase/server": "1.9.40",
-    "@nocobase/test": "1.9.40"
-  },
+  "main": "./dist/server/index.js",
+  "displayName": "Table Search",
+  "description": "Adds the ability to filter a table with a search-field",
+  "license": "MIT",
   "peerDependencies": {
-    "@nocobase/client": "1.9.40",
-    "@nocobase/server": "1.9.40",
-    "@nocobase/test": "1.9.40"
-  },
-  "devDependencies": {
-    "@types/react": "^18.3.18",
-    "@types/react-dom": "^18.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x"
   }
 }
