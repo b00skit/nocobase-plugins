@@ -1,0 +1,11 @@
+{
+  "name": "@booskit/global-model-search",
+  "version": "1.9.40",
+  "main": "dist/server/index.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/test": "1.x"
+  }
+}
