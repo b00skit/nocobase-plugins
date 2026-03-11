@@ -1,5 +1,5 @@
 {
-  "name": "@my-project/plugin-table-search",
+  "name": "@booskit/plugin-table-search",
   "version": "1.0.0",
   "main": "./dist/server/index.js",
   "displayName": "Table Search",

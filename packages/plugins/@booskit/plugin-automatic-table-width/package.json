@@ -1,5 +1,5 @@
 {
-  "name": "@my-project/plugin-automatic-table-width",
+  "name": "@booskit/plugin-automatic-table-width",
   "version": "1.1.1",
   "main": "./dist/server/index.js",
   "displayName": "Automatic Table Width",
