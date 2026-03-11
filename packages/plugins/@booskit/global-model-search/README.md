@@ -1,1 +1,0 @@
-# @booskit/global-model-search
